@@ -8,7 +8,7 @@ Welcome to my resume repository. This repository contains my latest resume along
 
 You can view or download my latest resume here:
 
-**➡️ [Resume.pdf](./Shambo Das Resume.pdf)**
+**➡️ [Resume.pdf](./ShamboDasResume.pdf)**
 
 
 ## 👨‍💻 About Me
