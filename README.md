@@ -6,14 +6,6 @@ Welcome to my resume repository! This repository contains my latest resume along
 
 ---
 
-## 📄 Resume
-
-You can view or download my latest resume here:
-
-➡️ **Resume.pdf**
-
----
-
 ## 👨‍💻 About Me
 
 I'm an Electronics and Communication Engineering undergraduate at **Netaji Subhash Engineering College** with a strong interest in **Machine Learning, Artificial Intelligence, Software Engineering, IoT, and Backend Development**.
